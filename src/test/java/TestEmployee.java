@@ -9,6 +9,6 @@ public class TestEmployee {
 	public void test() {
 		StartEmployee st = new StartEmployee();
 		assertEquals(1,st.createEmp() );
-	System.out.println("Test success");
+	System.out.println("Test success  ");
 	}
 }
